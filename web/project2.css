@@ -1,0 +1,130 @@
+body {
+  font-family: 'Holtwood One SC', serif;
+    text-align: center;
+     background-color: #F781F3;
+}
+  header {
+      border: 11px  solid ;
+      font-size: xx-large; 
+    background-color: #8A0868;
+}
+
+fieldset { 
+    width: 90%; 
+    border: 8px solid ; 
+    margin-left: 35px; 
+}
+#footer {
+   border: 8px solid; 
+    color: #000000;
+    padding: 20px; 
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 0px; 
+}
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px; 
+    width: 68%;
+    background-color: #8A0868;
+    box-shadow: 2px 12px 19px 12px #000000;
+}
+#display  { 
+    width: 55%; 
+    background-color: #5bcf6a;
+    margin-left: 200px; 
+     display: none;
+  border-radius: 50%; 
+    margin-top: 25 px; 
+ 
+}
+ legend { 
+   color: #5bcf6a; 
+    padding: 20px; 
+    text-shadow: 2px 2px #000000;
+     font-size: large; 
+ }
+#rulePic {
+    float: right; 
+    margin-right: 25px;
+    border: 2px solid; 
+    box-shadow: 2px 12px 19px 12px #5bcf6a; 
+    margin-top: 130px;
+    position: relative; 
+    background-color:  #000000;
+    border: none; 
+  
+    
+} 
+#greeting {
+    float: left; 
+    margin-left: 20px; 
+    width: 45%; 
+        margin-bottom: 30px; 
+}
+#list { float: left; 
+    margin-left: 25px; 
+    width: 130%;
+        background-color: #5bcf6a;  
+    border-radius: 36%;
+    box-shadow: 2px 12px 19px 12px #000000;
+}
+.play { box-shadow:  2px 12px 19px 12px #000000;
+    margin-bottom: 20px; 
+    position: relative;
+}
+#user {
+    float: left;
+    margin-left: 10 px; 
+}
+
+#computer { 
+    float: right;
+    margin-right: 10px; 
+  
+}
+#video {
+    display: none;
+      float: right; 
+    margin-right: 25px;
+    padding-top: 130px; 
+}
+#show { color: #2E9AFE;
+}
+#showAgain { color: #2E9AFE;
+     float: right; 
+    margin-right: 20px;
+       display: none;
+}
+#hidden {
+    display: none; 
+    float: left;
+    margin-left: 160px;
+    border: 5px solid; 
+    background-color:  #000000;
+    border: none; 
+    position: fixed;
+      margin-bottom: 100px;
+    margin-top: 25px;
+   
+} 
+h1 {  box-shadow: 2px 12px 19px 12px #5bcf6a;
+    border-radius: 56%;
+     background-color: #8A0868;
+    position: relative;
+    
+} 
+#crazy { 
+   border-radius: 50%;
+     box-shadow: 2px 5px 3px 12px #5bcf6a;
+    
+} 
+.play { background-color:  #000000;
+    border: none; 
+}
+        
+
+    
+    

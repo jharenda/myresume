@@ -1,0 +1,44 @@
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 10px;
+      background-color: #1B21F3;
+      color: black; 
+      font-family: 'Roboto Slab', serif;
+      font-size: xx-large;
+      font-weight: bold; 
+    }
+    body { font-weight: bolder;
+    }
+    
+    footer {
+      background-color: #1B21F3;
+      color: black;
+      font-family: 'Raleway', sans-serif;
+      padding: 15px;
+    }
+    .carousel-inner {color: blue;}
+    
+   .carousel-inner > .item > img{
+       width:710px;
+       height:500px;
+     }
+     .carousel-caption h2 {color: blue;
+     font: xx-large;
+      font-family: 'Roboto Slab', serif;
+     font-weight: bolder;
+     }
+     
+     .carousel-caption p {color: #1B21F3;
+     font: large;
+   
+font-family: 'Raleway', sans-serif;
+     }
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; 
+    }
+  }
+
+
+
