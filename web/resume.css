@@ -9,7 +9,9 @@
     }
     body { font-weight: bolder;
     }
-    
+    html,body{
+    height: 100%
+}
     footer {
       background-color: #1B21F3;
       color: black;
